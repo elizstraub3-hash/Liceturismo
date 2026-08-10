@@ -3,7 +3,7 @@
   "use strict";
 
   // WhatsApp number (formato internacional, sem símbolos).
-  var WHATSAPP = "554188252647";
+  var WHATSAPP = "5541988252647";
 
   // Ano no rodapé
   var ano = document.getElementById("ano");
